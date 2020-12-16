@@ -7,3 +7,4 @@
 
 #import <Foundation/Foundation.h>
 #import "main.h"
+#import "main2.h"
